@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2ZSXdxpWAMukjs1mMzLq/u9wBJYBoIFzgQQ9w49AM8nRI/i7zmbD1D1eMsLk/PzUS8dtG9L/aQ/dLV41tVXF2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\serka\\source\\repos\\MediatRExample\\MediatRExample\\MediatRExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\serka\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\serka\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "C:\\Users\\serka\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
